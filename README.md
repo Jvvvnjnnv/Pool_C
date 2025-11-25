@@ -52,10 +52,9 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 ## 👤 Vos Contact
 
-- **NOM COMPLET**: ...
-- **AGE**: ...
-- **Discord ID**: ...
-- **Établissement**: ...
+- **NOM COMPLET**: Khadija Badda 
+- **AGE**: 18
+- **Discord ID**: 1315452895461904384 
+- **Établissement**: FSO
 
 ---
-
